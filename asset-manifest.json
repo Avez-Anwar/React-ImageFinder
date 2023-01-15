@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-ImageFinder/static/css/main.f4e01c94.css",
+    "main.js": "/React-ImageFinder/static/js/main.e115d7b1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React-ImageFinder/static/js/787.28cb0dcd.chunk.js",
+    "static/media/wild-life.jpg": "/React-ImageFinder/static/media/wild-life.5f3af4d594105cc6dd16.jpg",
+    "static/media/technology.jpg": "/React-ImageFinder/static/media/technology.25e0538c923447db1392.jpg",
+    "static/media/travel1.jpg": "/React-ImageFinder/static/media/travel1.e52cf02776ea7be0d4c1.jpg",
+    "static/media/car1.jpg": "/React-ImageFinder/static/media/car1.cb234e409c08b2d91404.jpg",
+    "static/media/logo.svg": "/React-ImageFinder/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-ImageFinder/index.html",
+    "main.f4e01c94.css.map": "/React-ImageFinder/static/css/main.f4e01c94.css.map",
+    "main.e115d7b1.js.map": "/React-ImageFinder/static/js/main.e115d7b1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React-ImageFinder/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4e01c94.css",
+    "static/js/main.e115d7b1.js"
+  ]
+}
